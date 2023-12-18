@@ -1,0 +1,13 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.containerStyles {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 80vh;
+    object-fit: cover;
+}
+
+.titleClassName {
+    display: none;
+}
