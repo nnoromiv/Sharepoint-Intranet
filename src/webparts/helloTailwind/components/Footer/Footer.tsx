@@ -12,7 +12,7 @@ const Footer = () => {
                 alt='Logo'
                 />
         </div>
-        <div className='tw-text-white'>
+        <div className='tw-text-red-900'>
             <h2>Copyright &copy; 2023</h2>
             <p>All rights reserved</p>
         </div>

@@ -19,14 +19,14 @@
         "default": "Advanced"
       },
       "title": {
-        "default": "Hello Tailwind"
+        "default": "RedTech"
       },
       "description": {
-        "default": "HelloTailwind description"
+        "default": "RedTech WebPart description"
       },
-      "officeFabricIconFontName": "Color",
+      "officeFabricIconFontName": "GitGraph",
       "properties": {
-        "description": "HelloTailwind"
+        "description": "RedTech WebPart"
       }
     }
   ],
@@ -38,7 +38,7 @@
     "scriptResources": {
       "hello-tailwind-web-part": {
         "type": "path",
-        "path": "hello-tailwind-web-part.js"
+        "path": "hello-tailwind-web-part_f98504a839a4dc9fd90b.js"
       },
       "@microsoft/sp-property-pane": {
         "type": "component",
@@ -47,7 +47,7 @@
       },
       "HelloTailwindWebPartStrings": {
         "type": "path",
-        "path": "HelloTailwindWebPartStrings_en-us.js"
+        "path": "HelloTailwindWebPartStrings_en-us_3bd812ceda191f7235a1db0c41d7c3a7.js"
       },
       "@microsoft/sp-loader": {
         "type": "component",
@@ -62,38 +62,38 @@
       "ControlStrings": {
         "type": "localizedPath",
         "paths": {
-          "bg-BG": "ControlStrings_bg-bg.js",
-          "ca-ES": "ControlStrings_ca-es.js",
-          "da-DK": "ControlStrings_da-dk.js",
-          "de-DE": "ControlStrings_de-de.js",
-          "el-GR": "ControlStrings_el-gr.js",
-          "en-US": "ControlStrings_en-us.js",
-          "es-ES": "ControlStrings_es-es.js",
-          "et-EE": "ControlStrings_et-ee.js",
-          "eu-ES": "ControlStrings_eu-es.js",
-          "fi-FI": "ControlStrings_fi-fi.js",
-          "fr-CA": "ControlStrings_fr-ca.js",
-          "fr-FR": "ControlStrings_fr-fr.js",
-          "it-IT": "ControlStrings_it-it.js",
-          "ja-JP": "ControlStrings_ja-jp.js",
-          "lt-LT": "ControlStrings_lt-lt.js",
-          "lv-LV": "ControlStrings_lv-lv.js",
-          "nb-NO": "ControlStrings_nb-no.js",
-          "nl-NL": "ControlStrings_nl-nl.js",
-          "pl-PL": "ControlStrings_pl-pl.js",
-          "pt-BR": "ControlStrings_pt-br.js",
-          "pt-PT": "ControlStrings_pt-pt.js",
-          "ro-RO": "ControlStrings_ro-ro.js",
-          "ru-RU": "ControlStrings_ru-ru.js",
-          "sk-SK": "ControlStrings_sk-sk.js",
-          "sr-Latn-RS": "ControlStrings_sr-latn-rs.js",
-          "sv-SE": "ControlStrings_sv-se.js",
-          "tr-TR": "ControlStrings_tr-tr.js",
-          "vi-VN": "ControlStrings_vi-vn.js",
-          "zh-CN": "ControlStrings_zh-cn.js",
-          "zh-TW": "ControlStrings_zh-tw.js"
+          "bg-BG": "ControlStrings_bg-bg_56e5b3e9658dd34c956b700733796eea.js",
+          "ca-ES": "ControlStrings_ca-es_a51381d8cf32eeb4e2e87221dba2feea.js",
+          "da-DK": "ControlStrings_da-dk_0d9a9d233b9fc67d093a4da089ee4141.js",
+          "de-DE": "ControlStrings_de-de_4c00d8024bf8a774f11b3e229554817e.js",
+          "el-GR": "ControlStrings_el-gr_55c5f576ffd618dc87e1aedf0f74a4f4.js",
+          "en-US": "ControlStrings_en-us_4f9089a2d1ca62d4e051724ca52b6840.js",
+          "es-ES": "ControlStrings_es-es_7f9a1639082b58c5129bc372e3c1dfb0.js",
+          "et-EE": "ControlStrings_et-ee_5c20279f010c573cd2de959d173f85ba.js",
+          "eu-ES": "ControlStrings_eu-es_24943738d5af8a23b9666ce6204ac408.js",
+          "fi-FI": "ControlStrings_fi-fi_a2d268825ee16a0ff10d3ba7c3a42642.js",
+          "fr-CA": "ControlStrings_fr-ca_74c962d376e3b590443320528a4edf6c.js",
+          "fr-FR": "ControlStrings_fr-fr_741869e440ace629f6ca47cd795fb147.js",
+          "it-IT": "ControlStrings_it-it_a7e45cd2136b685e6ea4bc6cef02676a.js",
+          "ja-JP": "ControlStrings_ja-jp_0cb1b7f7f26bfb2e5e5c3f42da20a30a.js",
+          "lt-LT": "ControlStrings_lt-lt_05db49e579855b600d9027cba615b95f.js",
+          "lv-LV": "ControlStrings_lv-lv_6410973f5a2e7acc6c75b5e2f297c29a.js",
+          "nb-NO": "ControlStrings_nb-no_2bd99aac2d06021b4dae374521a25b12.js",
+          "nl-NL": "ControlStrings_nl-nl_576ee1a54198b3a85583715252c02918.js",
+          "pl-PL": "ControlStrings_pl-pl_3fb6251dc163465c6bee424fa652cef7.js",
+          "pt-BR": "ControlStrings_pt-br_4cd3aa9890f689715108c4d20ebd3094.js",
+          "pt-PT": "ControlStrings_pt-pt_b51c7a3df463e5ee3d4ca04aabe46dd3.js",
+          "ro-RO": "ControlStrings_ro-ro_808a0280f2909687c187c0205183649f.js",
+          "ru-RU": "ControlStrings_ru-ru_04952bd78570d84fade21eed4399c0f8.js",
+          "sk-SK": "ControlStrings_sk-sk_9bdf1d95c6a9615f601ea49da3f6b99c.js",
+          "sr-Latn-RS": "ControlStrings_sr-latn-rs_0b4674dacd13d79caef4c06ab21b0bcc.js",
+          "sv-SE": "ControlStrings_sv-se_3f00ac94622cd31012f1fd477c095fa5.js",
+          "tr-TR": "ControlStrings_tr-tr_597bf4d87743a06bc224329f3678e626.js",
+          "vi-VN": "ControlStrings_vi-vn_0db68c7aaf6312abeb7f2dd168021eab.js",
+          "zh-CN": "ControlStrings_zh-cn_19c429190fe818fece492c0a0ff99630.js",
+          "zh-TW": "ControlStrings_zh-tw_3f5c7498e93e8c8a3de53c85b306465b.js"
         },
-        "defaultPath": "ControlStrings_en-us.js"
+        "defaultPath": "ControlStrings_en-us_4f9089a2d1ca62d4e051724ca52b6840.js"
       },
       "@microsoft/sp-core-library": {
         "type": "component",
